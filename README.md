@@ -39,7 +39,7 @@ Deskripsi singkat tentang proyek ini.
 ## Tampilan
 
 ### Gambar Pembagian
-![Logo Aplikasi](public/images/pengurangan_card_backrgound.png)
+![Logo Aplikasi](public/images/loginPage.jpg)
 
 ### Gambar Pengurangan
 ![Logo Aplikasi](public/images/pembagian_card_backrgound.png)
