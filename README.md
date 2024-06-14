@@ -1,64 +1,71 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+# Math with Gasing
+![Logo Aplikasi](public/images/logoapk.jpg)
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+Deskripsi singkat tentang proyek ini.
 
-## About Laravel
+## Fitur Utama
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+- **Kelola Akun:** Dengan fitur ini, pengguna dapat mengelola akun siswa dan admin secara terpisah, memungkinkan untuk administrasi yang efektif.
+- /**
+ * Fitur Kelola Akun memungkinkan admin untuk melakukan manajemen akun siswa dan admin
+ * secara terpisah. Ini meliputi fungsi-fungsi seperti pembuatan, pengeditan, dan penghapusan akun,
+ * serta pengaturan peran dan izin akses yang sesuai.
+ */
+  
+- **Kelola Materi:** Integrasi dengan aplikasi untuk mengelola materi secara efisien dan terstruktur.
+- /**
+ * Fitur Kelola Materi memfasilitasi integrasi dengan aplikasi untuk mengelola materi pelajaran.
+ * Pengguna dapat menambah, mengedit, dan menghapus materi secara terstruktur, serta mengelompokkannya
+ * berdasarkan topik atau kurikulum untuk mempermudah pengelolaan konten pendidikan.
+ */
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+- **Kelola Lencana:** Pengelolaan lencana untuk memberikan pengakuan kepada prestasi siswa secara visual.
+- /**
+ * Fitur Kelola Lencana memungkinkan admin untuk mengelola sistem pengakuan prestasi siswa
+ * melalui pemberian lencana. Admin dapat membuat, menetapkan kriteria pemberian, serta memberikan
+ * lencana kepada siswa yang mencapai prestasi tertentu, memperkuat motivasi dan penghargaan dalam
+ * lingkungan pendidikan.
+ */
 
-## Learning Laravel
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+- **Pencapaian Siswa:** Melacak dan memvisualisasikan pencapaian siswa untuk memotivasi dan memantau perkembangan mereka.
+- /**
+ * Fitur Pencapaian Siswa memungkinkan pengguna untuk melacak dan memvisualisasikan pencapaian
+ * siswa. Ini memungkinkan pendidik dan admin untuk memantau perkembangan akademis dan non-akademis
+ * siswa secara langsung, membantu dalam evaluasi dan pengambilan keputusan yang berorientasi pada data.
+ */
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## Tampilan
 
-## Laravel Sponsors
+### Tampilan Login
+![Logo Aplikasi](public/images/loginPage.jpg)
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+### Tampilan HomePage
+![Logo Aplikasi](public/images/homePage.jpg)
 
-### Premium Partners
+### Tampilan Kelola Siswa
+![Logo Aplikasi](public/images/kelolaSiswa.jpg)
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+### Tampilan Kelola Admin
+![Logo Aplikasi](public/images/kelolaAdmin.jpg)
 
-## Contributing
+### Tampilan Kelola Materi
+![Logo Aplikasi](public/images/kelolaMateri.jpg)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+### Tampilan Kelola Lencana
+![Logo Aplikasi](public/images/kelolaLencana.jpg)
 
-## Code of Conduct
+### Tampilan Pencapaian Siswa
+![Logo Aplikasi](public/images/pencapaianSiswa.jpg)
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+## Instalasi
 
-## Security Vulnerabilities
+Berikut adalah langkah-langkah instalasi proyek ini:
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+1. Clone repositori ini git clone [https://github.com/username/repo.git](https://github.com/HanzSitinjak/Project_MathGasing.git).
+2. Masuk ke direktori proyek.
+3. Instal dependencies.
+4. Jalankan aplikasi.
 
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Silakan ajukan *pull request* jika ingin berkontribusi pada proyek ini. Pastikan untuk membahas perubahan yang diusulkan terlebih dahulu.
