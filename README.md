@@ -1,92 +1,71 @@
-<!DOCTYPE html>
-<html lang="id">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Math with Gasing</title>
-</head>
-<body>
-    <h1>Math with Gasing</h1>
-    <img src="public/images/logoapk.jpg" alt="Logo Aplikasi">
+# Math with Gasing
+![Logo Aplikasi](public/images/logoapk.jpg)
 
-    <p>Deskripsi singkat tentang proyek ini.</p>
+Deskripsi singkat tentang proyek ini.
 
-    <h2>Fitur Utama</h2>
-    <ul>
-        <li>
-            <strong>Kelola Akun:</strong> Dengan fitur ini, pengguna dapat mengelola akun siswa dan admin secara terpisah, memungkinkan untuk administrasi yang efektif.
-            <pre><code>
-            /**
-             * Fitur Kelola Akun memungkinkan admin untuk melakukan manajemen akun siswa dan admin
-             * secara terpisah. Ini meliputi fungsi-fungsi seperti pembuatan, pengeditan, dan penghapusan akun,
-             * serta pengaturan peran dan izin akses yang sesuai.
-             */
-            </code></pre>
-        </li>
-        <li>
-            <strong>Kelola Materi:</strong> Integrasi dengan aplikasi untuk mengelola materi secara efisien dan terstruktur.
-            <pre><code>
-            /**
-             * Fitur Kelola Materi memfasilitasi integrasi dengan aplikasi untuk mengelola materi pelajaran.
-             * Pengguna dapat menambah, mengedit, dan menghapus materi secara terstruktur, serta mengelompokkannya
-             * berdasarkan topik atau kurikulum untuk mempermudah pengelolaan konten pendidikan.
-             */
-            </code></pre>
-        </li>
-        <li>
-            <strong>Kelola Lencana:</strong> Pengelolaan lencana untuk memberikan pengakuan kepada prestasi siswa secara visual.
-            <pre><code>
-            /**
-             * Fitur Kelola Lencana memungkinkan admin untuk mengelola sistem pengakuan prestasi siswa
-             * melalui pemberian lencana. Admin dapat membuat, menetapkan kriteria pemberian, serta memberikan
-             * lencana kepada siswa yang mencapai prestasi tertentu, memperkuat motivasi dan penghargaan dalam
-             * lingkungan pendidikan.
-             */
-            </code></pre>
-        </li>
-        <li>
-            <strong>Pencapaian Siswa:</strong> Melacak dan memvisualisasikan pencapaian siswa untuk memotivasi dan memantau perkembangan mereka.
-            <pre><code>
-            /**
-             * Fitur Pencapaian Siswa memungkinkan pengguna untuk melacak dan memvisualisasikan pencapaian
-             * siswa. Ini memungkinkan pendidik dan admin untuk memantau perkembangan akademis dan non-akademis
-             * siswa secara langsung, membantu dalam evaluasi dan pengambilan keputusan yang berorientasi pada data.
-             */
-            </code></pre>
-        </li>
-    </ul>
+## Fitur Utama
 
-    <h2>Tampilan</h2>
-    <h3>Tampilan Login</h3>
-    <img src="public/images/loginPage.jpg" alt="Tampilan Login">
+- **Kelola Akun:** Dengan fitur ini, pengguna dapat mengelola akun siswa dan admin secara terpisah, memungkinkan untuk administrasi yang efektif.
+- /**
+ * Fitur Kelola Akun memungkinkan admin untuk melakukan manajemen akun siswa dan admin
+ * secara terpisah. Ini meliputi fungsi-fungsi seperti pembuatan, pengeditan, dan penghapusan akun,
+ * serta pengaturan peran dan izin akses yang sesuai.
+ */
+  
+- **Kelola Materi:** Integrasi dengan aplikasi untuk mengelola materi secara efisien dan terstruktur.
+- /**
+ * Fitur Kelola Materi memfasilitasi integrasi dengan aplikasi untuk mengelola materi pelajaran.
+ * Pengguna dapat menambah, mengedit, dan menghapus materi secara terstruktur, serta mengelompokkannya
+ * berdasarkan topik atau kurikulum untuk mempermudah pengelolaan konten pendidikan.
+ */
 
-    <h3>Tampilan HomePage</h3>
-    <img src="public/images/homePage.jpg" alt="Tampilan HomePage">
 
-    <h3>Tampilan Kelola Siswa</h3>
-    <img src="public/images/kelolaSiswa.jpg" alt="Tampilan Kelola Siswa">
+- **Kelola Lencana:** Pengelolaan lencana untuk memberikan pengakuan kepada prestasi siswa secara visual.
+- /**
+ * Fitur Kelola Lencana memungkinkan admin untuk mengelola sistem pengakuan prestasi siswa
+ * melalui pemberian lencana. Admin dapat membuat, menetapkan kriteria pemberian, serta memberikan
+ * lencana kepada siswa yang mencapai prestasi tertentu, memperkuat motivasi dan penghargaan dalam
+ * lingkungan pendidikan.
+ */
 
-    <h3>Tampilan Kelola Admin</h3>
-    <img src="public/images/kelolaAdmin.jpg" alt="Tampilan Kelola Admin">
 
-    <h3>Tampilan Kelola Materi</h3>
-    <img src="public/images/kelolaMateri.jpg" alt="Tampilan Kelola Materi">
+- **Pencapaian Siswa:** Melacak dan memvisualisasikan pencapaian siswa untuk memotivasi dan memantau perkembangan mereka.
+- /**
+ * Fitur Pencapaian Siswa memungkinkan pengguna untuk melacak dan memvisualisasikan pencapaian
+ * siswa. Ini memungkinkan pendidik dan admin untuk memantau perkembangan akademis dan non-akademis
+ * siswa secara langsung, membantu dalam evaluasi dan pengambilan keputusan yang berorientasi pada data.
+ */
 
-    <h3>Tampilan Kelola Lencana</h3>
-    <img src="public/images/kelolaLencana.jpg" alt="Tampilan Kelola Lencana">
+## Tampilan
 
-    <h3>Tampilan Pencapaian Siswa</h3>
-    <img src="public/images/pencapaianSiswa.jpg" alt="Tampilan Pencapaian Siswa">
+### Tampilan Login
+![Logo Aplikasi](public/images/loginPage.jpg)
 
-    <h2>Instalasi</h2>
-    <p>Berikut adalah langkah-langkah instalasi proyek ini:</p>
-    <ol>
-        <li>Clone repositori ini <code>git clone <a href="https://github.com/HanzSitinjak/Project_MathGasing.git">https://github.com/HanzSitinjak/Project_MathGasing.git</a></code>.</li>
-        <li>Masuk ke direktori proyek.</li>
-        <li>Instal dependencies.</li>
-        <li>Jalankan aplikasi.</li>
-    </ol>
+### Tampilan HomePage
+![Logo Aplikasi](public/images/homePage.jpg)
 
-    <p>Silakan ajukan <em>pull request</em> jika ingin berkontribusi pada proyek ini. Pastikan untuk membahas perubahan yang diusulkan terlebih dahulu.</p>
-</body>
-</html>
+### Tampilan Kelola Siswa
+![Logo Aplikasi](public/images/kelolaSiswa.jpg)
+
+### Tampilan Kelola Admin
+![Logo Aplikasi](public/images/kelolaAdmin.jpg)
+
+### Tampilan Kelola Materi
+![Logo Aplikasi](public/images/kelolaMateri.jpg)
+
+### Tampilan Kelola Lencana
+![Logo Aplikasi](public/images/kelolaLencana.jpg)
+
+### Tampilan Pencapaian Siswa
+![Logo Aplikasi](public/images/pencapaianSiswa.jpg)
+
+## Instalasi
+
+Berikut adalah langkah-langkah instalasi proyek ini:
+
+1. Clone repositori ini git clone [https://github.com/username/repo.git](https://github.com/HanzSitinjak/Project_MathGasing.git).
+2. Masuk ke direktori proyek.
+3. Instal dependencies.
+4. Jalankan aplikasi.
+
+Silakan ajukan *pull request* jika ingin berkontribusi pada proyek ini. Pastikan untuk membahas perubahan yang diusulkan terlebih dahulu.
