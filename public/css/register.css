@@ -1,0 +1,46 @@
+body {
+    background-color: #ff006e;
+    padding:20px;
+    overflow-x: hidden;
+}
+
+.logo-img{
+    height: 560px;
+    width: 560px;
+    position: absolute;
+    top: 89%;
+    left: 76%;
+    transform: translate(55%, -100%);
+}
+.form-header{
+    color: #1469B8;
+    font-size:1.5em;
+}
+.card-body{
+    padding: 20px;
+    height: 670px;
+}
+.container.mt-5{
+    width: 90%;
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    transform: translate(-50%, -59%);
+}
+.form-group.mb-0{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.btn.btn-primary{
+    width: 100%;
+    color: #1469B8;
+    background-color: #1469B8;
+    border: #1469B8; 
+}
+.btn.btn-primary:hover{
+    width: 100%;
+    background-color: #ff006e;
+    border: #ff006e; 
+}
