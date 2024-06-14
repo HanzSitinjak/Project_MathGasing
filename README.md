@@ -9,27 +9,27 @@
 
 ## About Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Laravel is a web application framework with expressive, elegant syntax. It aims to make development an enjoyable and creative experience by simplifying common tasks used in web projects.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+### Key Features
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+- **Simple, fast routing engine**: Quickly define clean and SEO-friendly URLs.
+- **Powerful dependency injection container**: Manage class dependencies effortlessly.
+- **Multiple back-ends for session and cache storage**: Flexibility in managing user sessions and caching.
+- **Expressive, intuitive database ORM**: Interact with databases in a straightforward manner.
+- **Database-agnostic schema migrations**: Easily manage database schema changes.
+- **Robust background job processing**: Execute tasks asynchronously with ease.
+- **Real-time event broadcasting**: Build interactive, live-updating applications.
+
+Laravel provides powerful tools required for building large-scale, robust applications.
 
 ## Learning Laravel
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+Laravel offers extensive [documentation](https://laravel.com/docs) and a comprehensive [Laracasts](https://laracasts.com) video tutorial library. Whether you prefer reading or watching, getting started with Laravel is straightforward and enriching.
 
 ## Laravel Sponsors
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+We extend our thanks to the following sponsors for their generous support:
 
 ### Premium Partners
 
@@ -47,18 +47,43 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
 - **[Lendio](https://lendio.com)**
 
+## Features Overview
+
+### Manage Accounts
+
+Laravel facilitates account management for both students and administrators.
+
+### Material Management
+
+Seamlessly integrate and manage educational materials within the application.
+
+### Badge Management
+
+Effortlessly manage badges to recognize achievements.
+
+### Student Achievements
+
+Track and showcase student accomplishments effectively.
+
 ## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Thank you for considering contributing to the Laravel framework! Please refer to the [contribution guide](https://laravel.com/docs/contributions) for more information.
 
 ## Code of Conduct
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+To ensure a welcoming community, please review and abide by our [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within Laravel, please email [taylor@laravel.com](mailto:taylor@laravel.com). All security concerns will be addressed promptly.
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Screenshots
+
+<p align="center">
+  <img src="public/images/pembagian_card_backrgound.png" width="400" />
+  <img src="public/images/pengurangan_card_backrgound.png" width="400" />
+</p>
