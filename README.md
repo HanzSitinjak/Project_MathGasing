@@ -39,7 +39,7 @@ Deskripsi singkat tentang proyek ini.
 ## Tampilan
 
 ### Gambar Pembagian
-![Logo Aplikasi](public/images/logoapk.jpg)
+![Logo Aplikasi](public/images/pengurangan_card_backrgound.png)
 
 ### Gambar Pengurangan
 ![Logo Aplikasi](public/images/pembagian_card_backrgound.png)
