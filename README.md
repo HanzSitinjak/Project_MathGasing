@@ -1,6 +1,6 @@
 # Nama Proyek Anda
 
-![Logo Aplikasi](public/images/logoapk.png)
+![Logo Aplikasi](public/images/logoapk.jpg)
 
 Deskripsi singkat tentang proyek ini.
 
