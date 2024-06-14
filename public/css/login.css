@@ -1,0 +1,76 @@
+.alert-danger {
+    color: #721c24;
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+}
+
+.alert-warning {
+    color: #856404;
+    background-color: #fff3cd;
+    border-color: #ffeeba;
+}
+
+body {
+    background-image: url('./assets/BackgroundScreen.png');
+    background-size: cover;
+}
+
+.container.mt-5{
+    width: 500px;
+}
+
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.logo-img{
+    height: 170px;
+    width: 170px;
+    position: absolute;
+    top: 18%;
+    left: 50%;
+    transform: translate(-52%, -100%);
+}
+
+.form-header{
+    color: #1469B8;
+    font-size:1.5em;
+}
+
+.card-body{
+    padding: 20px;
+    margin-top: 10px;
+}
+
+.form-group.mb-0{ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn.btn-primary{
+    width: 100%;
+    background-color: #1469B8;
+    border: #1469B8; 
+}
+
+.btn.btn-primary:hover{
+    width: 100%;
+    background-color: #ff006e;
+    border: #ff006e; 
+}
+.alert-danger {
+    color: #721c24;
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+}
+
+.alert-warning {
+    color: #856404;
+    background-color: #fff3cd;
+    border-color: #ffeeba;
+}

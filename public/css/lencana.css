@@ -1,0 +1,103 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: space-between; */
+}
+.content {
+    padding-top: 10px;
+    padding-left: 0px;
+    padding-right: 20px;
+    margin-top: -50px;
+    margin-left: -30px;
+    width: 93vw;
+}
+.content-wrapper {
+    width: 100%;
+    margin: 0 auto;
+}
+.content .card {
+    margin: 12px;
+}
+.breadscrumb-component {
+    background-color: #EAEAEA;
+    border: 8px #7B7C6C;
+    border-radius: 12px;
+    height: 40px;
+    width: 100%;
+    margin: 0;
+    margin-top: 8px;
+    padding: 2px;
+    padding-left: 30px;
+}
+.header-component {
+    background-color: #0D3659;
+    height: 40px;
+    width: 100%;
+    padding-left: 25px;
+}
+.header-component {
+    background-color: #0D3659;
+    padding: 8px;
+    padding-right: 20px;
+    text-align: right;
+    height: 56px;
+}
+.user-info {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding-right: 10px;
+}
+.user-info .user-name {
+    margin-right: 10px;
+    color: white;
+}
+.user-info img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.custom-offcanvas {
+    background-color: #052A8B;
+}
+.custom-offcanvas img {
+    height: 67px;
+    width: 190px;
+    margin-left: 60px;
+}
+.offcanvas-body {
+    color: white;
+    margin-top: 60px;
+}
+.nav-link.pressed {
+    background-color: white;
+    color: #052A8B;
+    border-radius: 8px;
+    padding: 5px;
+}
+.dropdown-toggle.pressed {
+    background-color: white;
+    color: #052A8B;
+    border-radius: 8px;
+    padding: 5px;
+}
+.active {
+    background-color: white;
+    border-radius: 8px;
+    padding: 5px;
+    color: #052A8B; 
+}
+.button-kelola {
+    width: 200px;
+}
+.button-kelola a{
+   color: white;
+   text-decoration:none;
+}
+.card-badge{
+    
+}
