@@ -1,6 +1,5 @@
-# Nama Proyek Anda
-
-![Logo Aplikasi](public/images/logoapk.png)
+# Math with Gasing
+![Logo Aplikasi](public/images/logoapk.jpg)
 
 Deskripsi singkat tentang proyek ini.
 
@@ -40,10 +39,10 @@ Deskripsi singkat tentang proyek ini.
 ## Tampilan
 
 ### Gambar Pembagian
-![Pembagian Card Background](public/images/pembagian_card_background.png)
+![Logo Aplikasi](public/images/pengurangan_card_backrgound.png)
 
 ### Gambar Pengurangan
-![Pengurangan Card Background](public/images/pengurangan_card_background.png)
+![Logo Aplikasi](public/images/pembagian_card_backrgound.png)
 
 ## Instalasi
 
