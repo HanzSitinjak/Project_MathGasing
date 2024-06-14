@@ -53,6 +53,12 @@ Deskripsi singkat tentang proyek ini.
 ### Tampilan Kelola Materi
 ![Logo Aplikasi](public/images/kelolaMateri.jpg)
 
+### Tampilan Kelola Lencana
+![Logo Aplikasi](public/images/kelolaLencana.jpg)
+
+### Tampilan Pencapaian Siswa
+![Logo Aplikasi](public/images/pencapaianSiswa.jpg)
+
 ## Instalasi
 
 Berikut adalah langkah-langkah instalasi proyek ini:
