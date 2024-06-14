@@ -38,11 +38,20 @@ Deskripsi singkat tentang proyek ini.
 
 ## Tampilan
 
-### Gambar Pembagian
+### Tampilan Login
 ![Logo Aplikasi](public/images/loginPage.jpg)
 
-### Gambar Pengurangan
-![Logo Aplikasi](public/images/pembagian_card_backrgound.png)
+### Tampilan HomePage
+![Logo Aplikasi](public/images/homePage.jpg)
+
+### Tampilan Kelola Siswa
+![Logo Aplikasi](public/images/kelolaSiswa.jpg)
+
+### Tampilan Kelola Admin
+![Logo Aplikasi](public/images/kelolaAdmin.jpg)
+
+### Tampilan Kelola Materi
+![Logo Aplikasi](public/images/kelolaMateri.jpg)
 
 ## Instalasi
 
