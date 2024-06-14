@@ -1,4 +1,12 @@
-<h1>Math with Gasing</h1>
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Math with Gasing</title>
+</head>
+<body>
+    <h1>Math with Gasing</h1>
     <img src="public/images/logoapk.jpg" alt="Logo Aplikasi">
 
     <p>Deskripsi singkat tentang proyek ini.</p>
@@ -80,3 +88,5 @@
     </ol>
 
     <p>Silakan ajukan <em>pull request</em> jika ingin berkontribusi pada proyek ini. Pastikan untuk membahas perubahan yang diusulkan terlebih dahulu.</p>
+</body>
+</html>
